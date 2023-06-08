@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaskarimi
 - 👀 I’m interested in Health and fitness, Artificial intelligence and photography 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Woeking on buildin ML models
 - 📫 How to reach me ykarimi.2312@gmail.com
 
 <!---
